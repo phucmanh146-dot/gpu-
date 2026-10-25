@@ -2,6 +2,13 @@
 
 Task1、Task2各三条简短心得；Task3按天整理思维导图、通俗讲解、自测题与打卡心得。短心得沿用50字以内格式，资料来源另附。
 
+## 分两部分阅读
+
+- [第一部分：Task0、Task1、Task2学习笔记与心得](notes/01-task0-task1-task2.md)
+- [第二部分：Task3成本与优化12道考核题](task3/02-cost-optimization-quiz.md)
+
+Task0暂指学习准备与路线，官方Task划分尚未核实。知识整理、心得稿与个人实测状态在页面内分别说明。
+
 ## 章节目录
 
 - [Task1：环境、线程与数据](task1/README.md)
